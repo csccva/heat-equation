@@ -10,6 +10,11 @@ Heat (or diffusion) equation is
 --> 
 ![img](http://quicklatex.com/cache3/d2/ql_b3f6b8bdc3a8862c73c5a97862afb9d2_l3.png)
 
+<img src="https://render.githubusercontent.com/render/math?math=\mu(\gamma_{eff})\nabla^2 \vec v">
+
+
+<img src="https://render.githubusercontent.com/render/math?math= \frac{\partial u}{\partial t} = \alpha \nabla^2 u ">
+
 where **u(x, y, t)** is the temperature field that varies in space and time,
 and α is thermal diffusivity constant. The two dimensional Laplacian can be
 discretized with finite differences as
